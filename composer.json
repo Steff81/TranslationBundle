@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.3.3",
         "doctrine/doctrine-bundle": ">=1.1",
-        "doctrine/orm": "2.2.*"
+        "doctrine/orm": ">=2.2.3,<2.5-dev"
     },
     "require-dev": {
         "twig/twig": "1.9.*"
