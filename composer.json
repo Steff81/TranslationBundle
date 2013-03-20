@@ -1,9 +1,9 @@
 {
-    "name": "cypresslab/translation-bundle",
+    "name": "steff81/translation-bundle",
     "type": "symfony-bundle",
     "description": "Translation bundle for Symfony2 and Doctrine 2",
     "keywords": ["orm", "doctrine", "translation"],
-    "homepage": "https://github.com/matteosister/TranslationBundle",
+    "homepage": "https://github.com/Steff81/TranslationBundle",
     "version": "0.1",
     "license": "LGPL-3.0",
     "authors": [
@@ -22,7 +22,7 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": { "Cypress\\TranslationBundle": "" }
+        "psr-0": { "Steff81\\TranslationBundle": "" }
     },
-    "target-dir": "Cypress/TranslationBundle"
+    "target-dir": "Steff81/TranslationBundle"
 }
